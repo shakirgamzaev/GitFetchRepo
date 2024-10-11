@@ -46,9 +46,9 @@ struct Episode {
 }
 
 
-//    func runRegex() {
-//        let phoneNumberRegex = Regex {
-//            Anchor.startOfLine
+   func runRegex() {
+       let phoneNumberRegex = Regex {
+           Anchor.startOfLine
 //            Optionally {
 //                Capture {
 //                    Character("+")
@@ -114,7 +114,7 @@ struct Episode {
 //            }
 //        }
 //        
-//    }
+   }
 
 
 #Preview {
